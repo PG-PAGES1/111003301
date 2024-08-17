@@ -1,0 +1,166 @@
+
+bigwin.png
+size: 1942,2015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijinggunag_unpack/bw_vfx_d_add
+  rotate: false
+  xy: 1338, 851
+  size: 413, 433
+  orig: 413, 433
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/mw_vfx_c_01_add
+  rotate: false
+  xy: 1187, 1454
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/mw_vfx_c_02_add
+  rotate: false
+  xy: 1549, 1454
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/mw_vfx_d_add
+  rotate: false
+  xy: 1338, 416
+  size: 413, 433
+  orig: 413, 433
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/smw_vfx_d_add
+  rotate: true
+  xy: 1338, 1
+  size: 413, 433
+  orig: 413, 433
+  offset: 0, 0
+  index: -1
+dajiangbeijing_unpack/bw_vfx_a_normal
+  rotate: true
+  xy: 675, 1016
+  size: 432, 521
+  orig: 432, 522
+  offset: 0, 0
+  index: -1
+dajiangbeijing_unpack/bw_vfx_b_normal
+  rotate: false
+  xy: 753, 1450
+  size: 432, 564
+  orig: 432, 564
+  offset: 0, 0
+  index: -1
+dajiangbeijing_unpack/bw_vfx_e_01_normal
+  rotate: false
+  xy: 1187, 1816
+  size: 750, 198
+  orig: 756, 200
+  offset: 4, 1
+  index: -1
+dajiangbeijing_unpack/bw_vfx_e_02_normal
+  rotate: true
+  xy: 1187, 267
+  size: 747, 149
+  orig: 756, 153
+  offset: 6, 4
+  index: -1
+dajiangbeijing_unpack/mw_vfx_a_normal
+  rotate: false
+  xy: 435, 226
+  size: 432, 521
+  orig: 432, 522
+  offset: 0, 0
+  index: -1
+dajiangbeijing_unpack/mw_vfx_b_normal
+  rotate: false
+  xy: 1, 1167
+  size: 432, 564
+  orig: 432, 564
+  offset: 0, 0
+  index: -1
+dajiangbeijing_unpack/mw_vfx_e_01_normal
+  rotate: false
+  xy: 435, 749
+  size: 750, 233
+  orig: 756, 235
+  offset: 3, 2
+  index: -1
+dajiangbeijing_unpack/mw_vfx_e_02_normal
+  rotate: false
+  xy: 1198, 1286
+  size: 743, 166
+  orig: 756, 167
+  offset: 7, 1
+  index: -1
+dajiangbeijing_unpack/smw_vfx_b_normal
+  rotate: false
+  xy: 1, 601
+  size: 432, 564
+  orig: 432, 564
+  offset: 0, 0
+  index: -1
+dajiangbeijing_unpack/smw_vfx_c_normal
+  rotate: false
+  xy: 1, 80
+  size: 432, 519
+  orig: 432, 522
+  offset: 0, 2
+  index: -1
+dajiangbeijing_unpack/smw_vfx_e_01_normal
+  rotate: false
+  xy: 1, 1733
+  size: 750, 281
+  orig: 756, 284
+  offset: 4, 3
+  index: -1
+dajiangbeijing_unpack/smw_vfx_e_02_normal
+  rotate: true
+  xy: 435, 984
+  size: 747, 238
+  orig: 756, 238
+  offset: 6, 0
+  index: -1
+
+bigwin2.png
+size: 1785,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijinggunag_unpack/mw_vfx_c_03_add
+  rotate: false
+  xy: 1, 1
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/smw_vfx_c_01_add
+  rotate: false
+  xy: 363, 1
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/smw_vfx_c_02_add
+  rotate: false
+  xy: 725, 1
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+beijinggunag_unpack/smw_vfx_c_03_add
+  rotate: false
+  xy: 1087, 1
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+tw_vfx_f_add
+  rotate: false
+  xy: 1449, 22
+  size: 335, 339
+  orig: 335, 339
+  offset: 0, 0
+  index: -1

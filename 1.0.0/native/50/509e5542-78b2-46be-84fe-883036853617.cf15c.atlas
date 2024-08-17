@@ -1,0 +1,34 @@
+
+click_partlice.png
+size: 367,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinseguangquan
+  rotate: true
+  xy: 287, 375
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao_unpack/mh_vfx_add_01
+  rotate: false
+  xy: 2, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao_unpack/mh_vfx_add_03
+  rotate: false
+  xy: 170, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao_unpack/sb_vfx_b_screen
+  rotate: true
+  xy: 2, 170
+  size: 284, 283
+  orig: 284, 283
+  offset: 0, 0
+  index: -1
